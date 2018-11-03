@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GrispBlink
 
 **TODO: Add description**
@@ -19,3 +20,6 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/grisp_blink](https://hexdocs.pm/grisp_blink).
 
+=======
+# grisp_blink
+>>>>>>> 42af790ef29e38700ba20095b3216baf5d7f3621
